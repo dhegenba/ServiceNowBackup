@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-07 01:00:55</sys_created_on>
+        <sys_id>58502050db0104102efe70e2399619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_341606_backup_backuptable.x_341606_backup.backuptable_user</sys_name>
+        <sys_package display_value="backup" source="x_341606_backup">649f9cdcdbcdc0102efe70e2399619d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="backup">649f9cdcdbcdc0102efe70e2399619d5</sys_scope>
+        <sys_security_acl display_value="x_341606_backup_backuptable">9c502050db0104102efe70e23996199e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_58502050db0104102efe70e2399619a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-07 01:00:55</sys_updated_on>
+        <sys_user_role display_value="x_341606_backup.backuptable_user" name="x_341606_backup.backuptable_user">80502050db0104102efe70e239961965</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
